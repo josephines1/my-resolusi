@@ -3,8 +3,8 @@ RENCANA PORTFOLIO
   # User lihat info kantin
   # Admin update info kantin
   # SuperAdmin kelola user, admin, dan kantin
-- Company Profile
 - Web untuk Brainstorming
   # File txt tipe public dan private
   # User kelola dan lihat file
-  # SuperAdmin kelola user dan file
+  # Admin kelola user dan file
+- Web untuk forum lingkup kecil
