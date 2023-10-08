@@ -1,3 +1,6 @@
 RENCANA PORTFOLIO
 - Sistem Informasi Kantin Sederhana
+  # User lihat info kantin
+  # Admin update info kantin
+  # SuperAdmin kelola user, admin, dan kantin
 - Company Profile
